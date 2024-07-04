@@ -1,0 +1,79 @@
+img {
+ 
+    width: 200px;
+      height: 150px;
+
+    }
+    .center{
+        display:block;
+        margin-left: 630px;
+        margin-right: 200px;
+    }
+body
+{
+    margin: 0;
+    padding: 0;
+    background-image:url(https://media.istockphoto.com/id/1456796778/photo/republic-day-india-army-day-and-republic-day-background-image.webp?b=1&s=170667a&w=0&k=20&c=d3ODfAKmqmtgfvFXsMXnE2Ite7vuyx3fXVBhLZ9Dtf8=);
+    font-family: 'Arial';
+    background-size: 920px 740px;
+}
+.login{
+        width: 382px;
+        overflow: hidden;
+        margin: auto;
+        margin: 20 0 0 450px;
+        padding: 80px;
+        background:transparent;
+        border-radius: 15px ;
+        font-weight:bolder;
+       
+}
+h2{
+    text-align: center;
+    color: #080808;
+    padding: 20px;
+    margin-right: 80px;
+}
+label{
+    color:black;
+    font-size: 17px;
+}
+#Uname{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+#Pass{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+
+}
+#log{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: rgb(255, 254, 254);
+cursor: pointer;
+background-color: #080808;
+
+}
+span{
+    color: white;
+    font-size: 17px;
+}
+a{
+    
+    cursor: pointer;
+    border-radius:20px ;
+   color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+}
+
